@@ -1,0 +1,25 @@
+#results{
+    /* border: 1px solid red; */
+    width: 60%;
+    margin-left: 30%;
+    margin-top: -10%;
+}
+#results div{
+    width: 50%;
+}
+#results img{
+    width: 50%;
+}
+
+.news{
+    /* border: 1px solid red; */
+    width: 60%;
+    margin-left: 30%;
+    margin-top: -10%;
+}
+.news div{
+    width: 50%;
+}
+.news img{
+    width: 50%;
+}

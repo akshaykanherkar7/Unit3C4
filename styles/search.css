@@ -1,0 +1,13 @@
+#results{
+    /* border: 1px solid red; */
+    width: 60%;
+    margin-left: 30%;
+    /* margin-top: -10%; */
+    margin-top: 5%;
+}
+#results div{
+    width: 50%;
+}
+#results img{
+    width: 50%;
+}
